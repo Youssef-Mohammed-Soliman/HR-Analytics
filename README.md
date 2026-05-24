@@ -80,7 +80,7 @@ The Excel dashboard includes:
 
 **[Youssef Mohammed Soliman]**  
 Data Analyst | Excel • SQL • Python  
-[LinkedIn]((https://www.linkedin.com/in/youssefmohammedsoliman/))
+[LinkedIn](https://linkedin.com/in/youssefmohammedsoliman)
 
 ---
 
