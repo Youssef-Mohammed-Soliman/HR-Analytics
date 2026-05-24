@@ -2,8 +2,7 @@
 
 > An end-to-end HR analytics project exploring workforce composition, attrition trends, and compensation insights across 1,480 employees.
 
-![Dashboard Preview](<img width="1499" height="786" alt="Hr Dashboard" src="https://github.com/user-attachments/assets/ff0e4f26-85ac-45fd-aafb-a39fe5acca87" />)
-
+![Dashboard Preview](dashboard_preview.png)
 ---
 
 ## 🔍 Project Overview
